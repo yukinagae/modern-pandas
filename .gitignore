@@ -107,4 +107,6 @@ venv.bak/
 data/*.csv
 data/*.zip
 data/*.h5
+weather/*.csv
+weather.h5
 
